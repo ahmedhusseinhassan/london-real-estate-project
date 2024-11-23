@@ -1,6 +1,7 @@
 ## London Real Estate Data Analysis
 ### Project Overview
-This project focuses on analyzing and visualizing real estate data for London. Using data preprocessing and visualization techniques, the analysis aims to uncover insights related to property prices, popular boroughs, price trends, and demographic influence on real estate in London.
+This project focuses on analyzing and visualizing real estate data for London.
+Using data preprocessing and visualization techniques, the analysis aims to uncover insights related to property prices, popular boroughs, price trends, and demographic influence on real estate in London.
 
 ### Repository Contents
 Data Cleaning.ipynb: The primary Jupyter Notebook for data cleaning and preprocessing. It includes handling missing values, formatting, and preparing the dataset for analysis.
